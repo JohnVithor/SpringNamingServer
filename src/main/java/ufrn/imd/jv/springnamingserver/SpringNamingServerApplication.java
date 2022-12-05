@@ -8,8 +8,8 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @EnableEurekaServer
 public class SpringNamingServerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringNamingServerApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringNamingServerApplication.class, args);
+    }
 
 }
